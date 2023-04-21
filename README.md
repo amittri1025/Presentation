@@ -18,3 +18,5 @@ to finally save your changes.
 7. Now , push your changes to the REMOTE REPOSITORY (which is online).
 by using command . git push
 
+8. Now, do git pull to finally upload the Code.
+
