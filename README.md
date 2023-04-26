@@ -8,11 +8,16 @@ This helps you learn how to make **YOUR FIRST PULL REQUEST (Contribution) in sim
 The meaning of Fork is basically to COPY THE ORIGINAL REPOSITORY to your OWN ACCOUNT
 
 The moment you fork,
+
 ![image](https://user-images.githubusercontent.com/74503582/234494834-31816a30-468e-4603-bd42-87da07e9c7c0.png)
-My username will change here , and your username will showup, it's because my repository is copied in your account. 💁‍♂️
+
+
+**My username will change here** , and **your username will showup**, it's because my repository is copied in your account. 💁‍♂️
 
 3. Clone this repository on to your system
 ``` git clone https://github.com/YOURGITHUBUSERNAME/Presentation```
+
+
 
 CLONING MEANS to get the FILES from your REPOSITORY to your computer locally. 🧑‍💻
 
@@ -29,9 +34,15 @@ by using command ```git push```
 
 
 8. Now your changes are ONLINE, **but it's only in your Repository NOT IN MINE**.
+
 9. On in your Repository, you can see a sentence **1(could be any no.) commit ahead**, click on it , this will forward you to another page
 where you can see, the changes in file you made, and there' will a button "Send Pull Request" click on it , with the Title and Description added.
+
 10. Now the page will be forwarded to **MY REPOSITORY**
+
 ![image](https://user-images.githubusercontent.com/74503582/234494834-31816a30-468e-4603-bd42-87da07e9c7c0.png)
+
+
 you can check whose repository is it, by checking the username on the Top or in the URL.
+
 12. Well Done, You,ve created your first Pull Request
