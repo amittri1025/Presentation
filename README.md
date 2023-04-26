@@ -5,6 +5,11 @@ This helps you learn how to make **YOUR FIRST PULL REQUEST (Contribution) in sim
 1. Download and install GIT from this website https://git-scm.com/downloads
 
 2. Fork this Repository (Folder is called Repository in GIT language).
+
+![image](https://user-images.githubusercontent.com/74503582/234618671-57b21816-4208-45f4-95db-dfbff2740274.png)
+
+
+
 The meaning of Fork is basically to COPY THE ORIGINAL REPOSITORY to your OWN ACCOUNT
 
 The moment you fork,
@@ -13,6 +18,11 @@ The moment you fork,
 
 
 **My username will change here** , and **your username will showup**, it's because my repository is copied in your account. 💁‍♂️
+
+**We'll take this Repository (or Folder) in your computer 🥶🥶**
+Before that
+## Make a Folder for Github on Desktop, and open the Folder in CMD or Terminal
+
 
 3. Clone this repository on to your system
 ``` git clone https://github.com/YOURGITHUBUSERNAME/Presentation```
